@@ -23,5 +23,13 @@ Basics Queries in Firestore with Flutter Web
     firebase.analytics();
   </script> 
   ```
-  
+  <li>Thats it..! Now you can run your flutter website</li>
 </ol>
+
+<ul>
+  <li>The database design is really simple we first have Collection<p></p></li>
+    
+ ``` 
+    User -> DocuemntID(Auto Generated) -> {"Name":XYZ, "Age":123,"Premium":true} 
+ ```
+</ul>
